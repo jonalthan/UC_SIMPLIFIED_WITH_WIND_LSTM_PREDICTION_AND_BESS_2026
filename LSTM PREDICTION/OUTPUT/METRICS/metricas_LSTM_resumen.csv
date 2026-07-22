@@ -1,7 +1,0 @@
-﻿Ventana,Conjunto,MAE (m/s),RMSE (m/s),R2
-m1...m6 → m7,Entrenamiento,0.2758,0.3667,0.9897
-m2...m7 → m8,Entrenamiento,0.2871,0.3492,0.9862
-m3...m8 → m9,Entrenamiento,0.6615,0.8677,0.8164
-m4...m9 → m10,Entrenamiento,0.8038,0.9664,0.8116
-m5...m10 → m11,Entrenamiento,0.563,0.7651,0.8592
-m6...m11 → m12,Prueba (fuera de muestra),5.8589,7.7604,-14.8505
